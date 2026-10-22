@@ -30,19 +30,22 @@
        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
       
   </p>
-  `  Están ordenados por orden de dominio y tiempo programando  con el lenguaje `
+  
+  ` Están ordenados por orden de dominio y tiempo programando  con el lenguaje `
 
 
 ## Proyectos empezados
 
-- App para ordenador para entrenar inteligencia artificial con imagenes 
+- Aplicación personalizada de soldadura colaborativa con un robot de Kassow
+- App para ordenador para entrenar inteligencia artificial con imágenes 
 - Emulador de consolas en esp32
 
 ## 💬**Contactame**
 --------------------
 
 <a href="https://www.linkedin.com/in/victor-ramirez-jimeno-aa181b348/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyBA7gYLHixYyF-rcMDZ8L_Ar_23174MP5zfz0lYCcA&s=10" width="100" alt="Texto alternativo"></a>
-<a href="https://buymeacoffee.com/vict222" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="300" ></a>
+
+<a href="https://buymeacoffee.com/vict222" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="comprame un cafe" width="300" ></a>
 
 -----------------------
 *El ignorante afirma, el sabio duda y reflexiona*
