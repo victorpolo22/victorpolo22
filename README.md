@@ -12,7 +12,7 @@
 2. **c#**
 3. **JS**
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/victor-ramirez-jimeno-aa181b348/)"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyBA7gYLHixYyF-rcMDZ8L_Ar_23174MP5zfz0lYCcA&s=10" width="300" alt="Texto alternativo"></a>
+<a href="https://www.linkedin.com/in/victor-ramirez-jimeno-aa181b348/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyBA7gYLHixYyF-rcMDZ8L_Ar_23174MP5zfz0lYCcA&s=10" width="300" alt="Texto alternativo"></a>
 
 
 
