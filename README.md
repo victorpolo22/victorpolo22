@@ -11,7 +11,7 @@
 1. **c++**
 2. **c#**
 3. **JS**
-4.![hola]( https://similarpng.com/linkedin-official-logo-professional-networking-icon/)
+4.![hola](https://similarpng.com/_next/image/?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fthumbnail%2Fthumbnail-dd491822-a121-41c0-93f7-7fcffd0f6257.png&w=3840&q=75)
 
 
 
