@@ -44,24 +44,8 @@
 --------------------
 
 <a href="https://www.linkedin.com/in/victor-ramirez-jimeno-aa181b348/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyBA7gYLHixYyF-rcMDZ8L_Ar_23174MP5zfz0lYCcA&s=10" width="100" alt="Texto alternativo"></a>
-
 <a href="https://buymeacoffee.com/vict222" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="comprame un cafe" width="300" ></a>
 
 -----------------------
-*El ignorante afirma, el sabio duda y reflexiona*
-<details>
-  <p align="left">
-    <img src="https://img.shields.io/badge/SCL-006495?style=for-the-badge&logo=siemens&logoColor=white" height="40" alt="SCL"/>
-    <img src="https://img.shields.io/badge/AWL-006495?style=for-the-badge&logo=siemens&logoColor=white" height="40" alt="AWL"/>
-    <img src="https://img.shields.io/badge/KOB-006495?style=for-the-badge&logo=siemens&logoColor=white" height="40" alt="KOB"/>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+>*El ignorante afirma, el sabio duda y reflexiona*
 
-  </p>
-
-</details>
