@@ -12,8 +12,8 @@
 2. **c#**
 3. **JS**
 
+<img src="https://ejemplo.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyBA7gYLHixYyF-rcMDZ8L_Ar_23174MP5zfz0lYCcA&s=10" width="300" alt="Texto alternativo">
 
-![hola](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyBA7gYLHixYyF-rcMDZ8L_Ar_23174MP5zfz0lYCcA&s=10)
 
 
 
