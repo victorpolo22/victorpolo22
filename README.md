@@ -48,4 +48,5 @@
 
 -----------------------
 >*El ignorante afirma, el sabio duda y reflexiona*
-[gif ](https://giphy.com/embed/l0EtMsQGaTomxzzIk)
+
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZwZGE3cjZpaTMxeW53djBudzIwdHgyNjdrN3RzdGp3ZTFpdjN4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT3i1kd2xAVSKslyh2/giphy.gif)
